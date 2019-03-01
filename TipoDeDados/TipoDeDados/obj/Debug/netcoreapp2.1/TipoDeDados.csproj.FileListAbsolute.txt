@@ -1,0 +1,11 @@
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\TipoDeDados\TipoDeDados\bin\Debug\netcoreapp2.1\TipoDeDados.deps.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\TipoDeDados\TipoDeDados\bin\Debug\netcoreapp2.1\TipoDeDados.runtimeconfig.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\TipoDeDados\TipoDeDados\bin\Debug\netcoreapp2.1\TipoDeDados.runtimeconfig.dev.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\TipoDeDados\TipoDeDados\bin\Debug\netcoreapp2.1\TipoDeDados.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\TipoDeDados\TipoDeDados\bin\Debug\netcoreapp2.1\TipoDeDados.pdb
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\TipoDeDados\TipoDeDados\obj\Debug\netcoreapp2.1\TipoDeDados.csprojAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\TipoDeDados\TipoDeDados\obj\Debug\netcoreapp2.1\TipoDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\TipoDeDados\TipoDeDados\obj\Debug\netcoreapp2.1\TipoDeDados.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\TipoDeDados\TipoDeDados\obj\Debug\netcoreapp2.1\TipoDeDados.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\TipoDeDados\TipoDeDados\obj\Debug\netcoreapp2.1\TipoDeDados.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\TipoDeDados\TipoDeDados\obj\Debug\netcoreapp2.1\TipoDeDados.pdb
