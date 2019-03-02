@@ -1,0 +1,11 @@
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\EntradaDados\EntradaDados\bin\Debug\netcoreapp2.1\EntradaDados.deps.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\EntradaDados\EntradaDados\bin\Debug\netcoreapp2.1\EntradaDados.runtimeconfig.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\EntradaDados\EntradaDados\bin\Debug\netcoreapp2.1\EntradaDados.runtimeconfig.dev.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\EntradaDados\EntradaDados\bin\Debug\netcoreapp2.1\EntradaDados.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\EntradaDados\EntradaDados\bin\Debug\netcoreapp2.1\EntradaDados.pdb
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\EntradaDados\EntradaDados\obj\Debug\netcoreapp2.1\EntradaDados.csprojAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\EntradaDados\EntradaDados\obj\Debug\netcoreapp2.1\EntradaDados.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\EntradaDados\EntradaDados\obj\Debug\netcoreapp2.1\EntradaDados.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\EntradaDados\EntradaDados\obj\Debug\netcoreapp2.1\EntradaDados.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\EntradaDados\EntradaDados\obj\Debug\netcoreapp2.1\EntradaDados.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\EntradaDados\EntradaDados\obj\Debug\netcoreapp2.1\EntradaDados.pdb
