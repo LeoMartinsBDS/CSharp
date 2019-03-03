@@ -13,6 +13,12 @@ namespace Estoque
 
         public int QuantidadeEstoque { get; set; }
 
+        public Produto(string nome, double preco, int qtd) {
+            Nome = nome;
+            Preco = preco;
+            QuantidadeEstoque = qtd;
+        }
+
         public double ValorTotalEstoque()
         {
             return Preco * QuantidadeEstoque;
