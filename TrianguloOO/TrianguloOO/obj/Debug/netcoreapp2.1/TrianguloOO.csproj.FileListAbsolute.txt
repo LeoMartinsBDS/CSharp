@@ -1,0 +1,11 @@
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\TrianguloOO\TrianguloOO\bin\Debug\netcoreapp2.1\TrianguloOO.deps.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\TrianguloOO\TrianguloOO\bin\Debug\netcoreapp2.1\TrianguloOO.runtimeconfig.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\TrianguloOO\TrianguloOO\bin\Debug\netcoreapp2.1\TrianguloOO.runtimeconfig.dev.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\TrianguloOO\TrianguloOO\bin\Debug\netcoreapp2.1\TrianguloOO.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\TrianguloOO\TrianguloOO\bin\Debug\netcoreapp2.1\TrianguloOO.pdb
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\TrianguloOO\TrianguloOO\obj\Debug\netcoreapp2.1\TrianguloOO.csprojAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\TrianguloOO\TrianguloOO\obj\Debug\netcoreapp2.1\TrianguloOO.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\TrianguloOO\TrianguloOO\obj\Debug\netcoreapp2.1\TrianguloOO.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\TrianguloOO\TrianguloOO\obj\Debug\netcoreapp2.1\TrianguloOO.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\TrianguloOO\TrianguloOO\obj\Debug\netcoreapp2.1\TrianguloOO.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\TrianguloOO\TrianguloOO\obj\Debug\netcoreapp2.1\TrianguloOO.pdb
