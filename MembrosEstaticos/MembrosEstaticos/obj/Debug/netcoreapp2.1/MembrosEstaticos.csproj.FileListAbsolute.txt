@@ -1,0 +1,11 @@
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp2.1\MembrosEstaticos.deps.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp2.1\MembrosEstaticos.runtimeconfig.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp2.1\MembrosEstaticos.runtimeconfig.dev.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp2.1\MembrosEstaticos.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp2.1\MembrosEstaticos.pdb
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp2.1\MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp2.1\MembrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp2.1\MembrosEstaticos.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp2.1\MembrosEstaticos.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp2.1\MembrosEstaticos.pdb
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp2.1\MembrosEstaticos.csprojAssemblyReference.cache
