@@ -1,0 +1,10 @@
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp2.1\ContaBancaria.deps.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp2.1\ContaBancaria.runtimeconfig.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp2.1\ContaBancaria.runtimeconfig.dev.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp2.1\ContaBancaria.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp2.1\ContaBancaria.pdb
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp2.1\ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp2.1\ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp2.1\ContaBancaria.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp2.1\ContaBancaria.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp2.1\ContaBancaria.pdb
