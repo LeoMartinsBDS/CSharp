@@ -1,0 +1,11 @@
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Vetores\Vetores\bin\Debug\netcoreapp2.1\Vetores.deps.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Vetores\Vetores\bin\Debug\netcoreapp2.1\Vetores.runtimeconfig.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Vetores\Vetores\bin\Debug\netcoreapp2.1\Vetores.runtimeconfig.dev.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Vetores\Vetores\bin\Debug\netcoreapp2.1\Vetores.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Vetores\Vetores\bin\Debug\netcoreapp2.1\Vetores.pdb
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Vetores\Vetores\obj\Debug\netcoreapp2.1\Vetores.csprojAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Vetores\Vetores\obj\Debug\netcoreapp2.1\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Vetores\Vetores\obj\Debug\netcoreapp2.1\Vetores.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Vetores\Vetores\obj\Debug\netcoreapp2.1\Vetores.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Vetores\Vetores\obj\Debug\netcoreapp2.1\Vetores.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Vetores\Vetores\obj\Debug\netcoreapp2.1\Vetores.pdb
