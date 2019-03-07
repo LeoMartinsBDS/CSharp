@@ -1,0 +1,11 @@
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Matriz\Matriz\bin\Debug\netcoreapp2.1\Matriz.deps.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Matriz\Matriz\bin\Debug\netcoreapp2.1\Matriz.runtimeconfig.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Matriz\Matriz\bin\Debug\netcoreapp2.1\Matriz.runtimeconfig.dev.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Matriz\Matriz\bin\Debug\netcoreapp2.1\Matriz.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Matriz\Matriz\bin\Debug\netcoreapp2.1\Matriz.pdb
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Matriz\Matriz\obj\Debug\netcoreapp2.1\Matriz.csprojAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Matriz\Matriz\obj\Debug\netcoreapp2.1\Matriz.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Matriz\Matriz\obj\Debug\netcoreapp2.1\Matriz.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Matriz\Matriz\obj\Debug\netcoreapp2.1\Matriz.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Matriz\Matriz\obj\Debug\netcoreapp2.1\Matriz.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Matriz\Matriz\obj\Debug\netcoreapp2.1\Matriz.pdb
