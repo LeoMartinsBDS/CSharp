@@ -1,0 +1,11 @@
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ControleSalario\ControleSalario\bin\Debug\netcoreapp2.1\ControleSalario.deps.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ControleSalario\ControleSalario\bin\Debug\netcoreapp2.1\ControleSalario.runtimeconfig.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ControleSalario\ControleSalario\bin\Debug\netcoreapp2.1\ControleSalario.runtimeconfig.dev.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ControleSalario\ControleSalario\bin\Debug\netcoreapp2.1\ControleSalario.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ControleSalario\ControleSalario\bin\Debug\netcoreapp2.1\ControleSalario.pdb
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ControleSalario\ControleSalario\obj\Debug\netcoreapp2.1\ControleSalario.csprojAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ControleSalario\ControleSalario\obj\Debug\netcoreapp2.1\ControleSalario.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ControleSalario\ControleSalario\obj\Debug\netcoreapp2.1\ControleSalario.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ControleSalario\ControleSalario\obj\Debug\netcoreapp2.1\ControleSalario.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ControleSalario\ControleSalario\obj\Debug\netcoreapp2.1\ControleSalario.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ControleSalario\ControleSalario\obj\Debug\netcoreapp2.1\ControleSalario.pdb

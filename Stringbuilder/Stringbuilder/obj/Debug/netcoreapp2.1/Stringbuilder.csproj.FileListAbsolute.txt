@@ -1,0 +1,11 @@
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Stringbuilder\Stringbuilder\bin\Debug\netcoreapp2.1\Stringbuilder.deps.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Stringbuilder\Stringbuilder\bin\Debug\netcoreapp2.1\Stringbuilder.runtimeconfig.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Stringbuilder\Stringbuilder\bin\Debug\netcoreapp2.1\Stringbuilder.runtimeconfig.dev.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Stringbuilder\Stringbuilder\bin\Debug\netcoreapp2.1\Stringbuilder.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Stringbuilder\Stringbuilder\bin\Debug\netcoreapp2.1\Stringbuilder.pdb
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Stringbuilder\Stringbuilder\obj\Debug\netcoreapp2.1\Stringbuilder.csprojAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Stringbuilder\Stringbuilder\obj\Debug\netcoreapp2.1\Stringbuilder.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Stringbuilder\Stringbuilder\obj\Debug\netcoreapp2.1\Stringbuilder.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Stringbuilder\Stringbuilder\obj\Debug\netcoreapp2.1\Stringbuilder.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Stringbuilder\Stringbuilder\obj\Debug\netcoreapp2.1\Stringbuilder.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Stringbuilder\Stringbuilder\obj\Debug\netcoreapp2.1\Stringbuilder.pdb
