@@ -1,0 +1,11 @@
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ProductOrder\ProductOrder\bin\Debug\netcoreapp2.1\ProductOrder.deps.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ProductOrder\ProductOrder\bin\Debug\netcoreapp2.1\ProductOrder.runtimeconfig.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ProductOrder\ProductOrder\bin\Debug\netcoreapp2.1\ProductOrder.runtimeconfig.dev.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ProductOrder\ProductOrder\bin\Debug\netcoreapp2.1\ProductOrder.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ProductOrder\ProductOrder\bin\Debug\netcoreapp2.1\ProductOrder.pdb
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ProductOrder\ProductOrder\obj\Debug\netcoreapp2.1\ProductOrder.csprojAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ProductOrder\ProductOrder\obj\Debug\netcoreapp2.1\ProductOrder.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ProductOrder\ProductOrder\obj\Debug\netcoreapp2.1\ProductOrder.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ProductOrder\ProductOrder\obj\Debug\netcoreapp2.1\ProductOrder.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ProductOrder\ProductOrder\obj\Debug\netcoreapp2.1\ProductOrder.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ProductOrder\ProductOrder\obj\Debug\netcoreapp2.1\ProductOrder.pdb
