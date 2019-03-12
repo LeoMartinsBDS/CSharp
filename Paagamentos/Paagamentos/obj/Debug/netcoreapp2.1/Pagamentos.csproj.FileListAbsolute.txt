@@ -1,0 +1,11 @@
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Paagamentos\Paagamentos\bin\Debug\netcoreapp2.1\Pagamentos.deps.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Paagamentos\Paagamentos\bin\Debug\netcoreapp2.1\Pagamentos.runtimeconfig.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Paagamentos\Paagamentos\bin\Debug\netcoreapp2.1\Pagamentos.runtimeconfig.dev.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Paagamentos\Paagamentos\bin\Debug\netcoreapp2.1\Pagamentos.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Paagamentos\Paagamentos\bin\Debug\netcoreapp2.1\Pagamentos.pdb
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Paagamentos\Paagamentos\obj\Debug\netcoreapp2.1\Pagamentos.csprojAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Paagamentos\Paagamentos\obj\Debug\netcoreapp2.1\Pagamentos.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Paagamentos\Paagamentos\obj\Debug\netcoreapp2.1\Pagamentos.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Paagamentos\Paagamentos\obj\Debug\netcoreapp2.1\Pagamentos.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Paagamentos\Paagamentos\obj\Debug\netcoreapp2.1\Pagamentos.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Paagamentos\Paagamentos\obj\Debug\netcoreapp2.1\Pagamentos.pdb
