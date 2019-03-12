@@ -1,0 +1,11 @@
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExercicioFixacaoHeranca\ExercicioFixacaoHeranca\bin\Debug\netcoreapp2.1\ExercicioFixacaoHeranca.deps.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExercicioFixacaoHeranca\ExercicioFixacaoHeranca\bin\Debug\netcoreapp2.1\ExercicioFixacaoHeranca.runtimeconfig.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExercicioFixacaoHeranca\ExercicioFixacaoHeranca\bin\Debug\netcoreapp2.1\ExercicioFixacaoHeranca.runtimeconfig.dev.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExercicioFixacaoHeranca\ExercicioFixacaoHeranca\bin\Debug\netcoreapp2.1\ExercicioFixacaoHeranca.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExercicioFixacaoHeranca\ExercicioFixacaoHeranca\bin\Debug\netcoreapp2.1\ExercicioFixacaoHeranca.pdb
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExercicioFixacaoHeranca\ExercicioFixacaoHeranca\obj\Debug\netcoreapp2.1\ExercicioFixacaoHeranca.csprojAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExercicioFixacaoHeranca\ExercicioFixacaoHeranca\obj\Debug\netcoreapp2.1\ExercicioFixacaoHeranca.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExercicioFixacaoHeranca\ExercicioFixacaoHeranca\obj\Debug\netcoreapp2.1\ExercicioFixacaoHeranca.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExercicioFixacaoHeranca\ExercicioFixacaoHeranca\obj\Debug\netcoreapp2.1\ExercicioFixacaoHeranca.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExercicioFixacaoHeranca\ExercicioFixacaoHeranca\obj\Debug\netcoreapp2.1\ExercicioFixacaoHeranca.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExercicioFixacaoHeranca\ExercicioFixacaoHeranca\obj\Debug\netcoreapp2.1\ExercicioFixacaoHeranca.pdb
