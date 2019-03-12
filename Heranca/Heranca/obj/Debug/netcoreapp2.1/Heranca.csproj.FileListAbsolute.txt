@@ -1,0 +1,11 @@
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Heranca\Heranca\bin\Debug\netcoreapp2.1\Heranca.deps.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Heranca\Heranca\bin\Debug\netcoreapp2.1\Heranca.runtimeconfig.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Heranca\Heranca\bin\Debug\netcoreapp2.1\Heranca.runtimeconfig.dev.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Heranca\Heranca\bin\Debug\netcoreapp2.1\Heranca.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Heranca\Heranca\bin\Debug\netcoreapp2.1\Heranca.pdb
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Heranca\Heranca\obj\Debug\netcoreapp2.1\Heranca.csprojAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Heranca\Heranca\obj\Debug\netcoreapp2.1\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Heranca\Heranca\obj\Debug\netcoreapp2.1\Heranca.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Heranca\Heranca\obj\Debug\netcoreapp2.1\Heranca.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Heranca\Heranca\obj\Debug\netcoreapp2.1\Heranca.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Heranca\Heranca\obj\Debug\netcoreapp2.1\Heranca.pdb
