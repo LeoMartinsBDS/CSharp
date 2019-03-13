@@ -1,0 +1,11 @@
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExercicioFixacaoMetodoAbstrato\ExercicioFixacaoMetodoAbstrato\bin\Debug\netcoreapp2.1\ExercicioFixacaoMetodoAbstrato.deps.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExercicioFixacaoMetodoAbstrato\ExercicioFixacaoMetodoAbstrato\bin\Debug\netcoreapp2.1\ExercicioFixacaoMetodoAbstrato.runtimeconfig.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExercicioFixacaoMetodoAbstrato\ExercicioFixacaoMetodoAbstrato\bin\Debug\netcoreapp2.1\ExercicioFixacaoMetodoAbstrato.runtimeconfig.dev.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExercicioFixacaoMetodoAbstrato\ExercicioFixacaoMetodoAbstrato\bin\Debug\netcoreapp2.1\ExercicioFixacaoMetodoAbstrato.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExercicioFixacaoMetodoAbstrato\ExercicioFixacaoMetodoAbstrato\bin\Debug\netcoreapp2.1\ExercicioFixacaoMetodoAbstrato.pdb
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExercicioFixacaoMetodoAbstrato\ExercicioFixacaoMetodoAbstrato\obj\Debug\netcoreapp2.1\ExercicioFixacaoMetodoAbstrato.csprojAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExercicioFixacaoMetodoAbstrato\ExercicioFixacaoMetodoAbstrato\obj\Debug\netcoreapp2.1\ExercicioFixacaoMetodoAbstrato.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExercicioFixacaoMetodoAbstrato\ExercicioFixacaoMetodoAbstrato\obj\Debug\netcoreapp2.1\ExercicioFixacaoMetodoAbstrato.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExercicioFixacaoMetodoAbstrato\ExercicioFixacaoMetodoAbstrato\obj\Debug\netcoreapp2.1\ExercicioFixacaoMetodoAbstrato.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExercicioFixacaoMetodoAbstrato\ExercicioFixacaoMetodoAbstrato\obj\Debug\netcoreapp2.1\ExercicioFixacaoMetodoAbstrato.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExercicioFixacaoMetodoAbstrato\ExercicioFixacaoMetodoAbstrato\obj\Debug\netcoreapp2.1\ExercicioFixacaoMetodoAbstrato.pdb

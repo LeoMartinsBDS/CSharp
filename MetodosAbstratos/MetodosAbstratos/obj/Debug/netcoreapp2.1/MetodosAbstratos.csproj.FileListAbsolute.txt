@@ -1,0 +1,11 @@
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\MetodosAbstratos\MetodosAbstratos\bin\Debug\netcoreapp2.1\MetodosAbstratos.deps.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\MetodosAbstratos\MetodosAbstratos\bin\Debug\netcoreapp2.1\MetodosAbstratos.runtimeconfig.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\MetodosAbstratos\MetodosAbstratos\bin\Debug\netcoreapp2.1\MetodosAbstratos.runtimeconfig.dev.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\MetodosAbstratos\MetodosAbstratos\bin\Debug\netcoreapp2.1\MetodosAbstratos.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\MetodosAbstratos\MetodosAbstratos\bin\Debug\netcoreapp2.1\MetodosAbstratos.pdb
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp2.1\MetodosAbstratos.csprojAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp2.1\MetodosAbstratos.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp2.1\MetodosAbstratos.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp2.1\MetodosAbstratos.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp2.1\MetodosAbstratos.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp2.1\MetodosAbstratos.pdb
