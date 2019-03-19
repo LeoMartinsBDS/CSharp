@@ -1,0 +1,11 @@
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Arquivos\Arquivos\bin\Debug\netcoreapp2.1\Arquivos.deps.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Arquivos\Arquivos\bin\Debug\netcoreapp2.1\Arquivos.runtimeconfig.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Arquivos\Arquivos\bin\Debug\netcoreapp2.1\Arquivos.runtimeconfig.dev.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Arquivos\Arquivos\bin\Debug\netcoreapp2.1\Arquivos.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Arquivos\Arquivos\bin\Debug\netcoreapp2.1\Arquivos.pdb
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Arquivos\Arquivos\obj\Debug\netcoreapp2.1\Arquivos.csprojAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Arquivos\Arquivos\obj\Debug\netcoreapp2.1\Arquivos.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Arquivos\Arquivos\obj\Debug\netcoreapp2.1\Arquivos.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Arquivos\Arquivos\obj\Debug\netcoreapp2.1\Arquivos.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Arquivos\Arquivos\obj\Debug\netcoreapp2.1\Arquivos.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Arquivos\Arquivos\obj\Debug\netcoreapp2.1\Arquivos.pdb
