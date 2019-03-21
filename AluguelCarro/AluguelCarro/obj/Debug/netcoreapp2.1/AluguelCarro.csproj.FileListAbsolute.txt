@@ -1,0 +1,11 @@
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\AluguelCarro\AluguelCarro\bin\Debug\netcoreapp2.1\AluguelCarro.deps.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\AluguelCarro\AluguelCarro\bin\Debug\netcoreapp2.1\AluguelCarro.runtimeconfig.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\AluguelCarro\AluguelCarro\bin\Debug\netcoreapp2.1\AluguelCarro.runtimeconfig.dev.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\AluguelCarro\AluguelCarro\bin\Debug\netcoreapp2.1\AluguelCarro.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\AluguelCarro\AluguelCarro\bin\Debug\netcoreapp2.1\AluguelCarro.pdb
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\AluguelCarro\AluguelCarro\obj\Debug\netcoreapp2.1\AluguelCarro.csprojAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\AluguelCarro\AluguelCarro\obj\Debug\netcoreapp2.1\AluguelCarro.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\AluguelCarro\AluguelCarro\obj\Debug\netcoreapp2.1\AluguelCarro.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\AluguelCarro\AluguelCarro\obj\Debug\netcoreapp2.1\AluguelCarro.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\AluguelCarro\AluguelCarro\obj\Debug\netcoreapp2.1\AluguelCarro.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\AluguelCarro\AluguelCarro\obj\Debug\netcoreapp2.1\AluguelCarro.pdb

@@ -1,0 +1,11 @@
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExercicioFixacaoInterface\ExercicioFixacaoInterface\bin\Debug\netcoreapp2.1\ExercicioFixacaoInterface.deps.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExercicioFixacaoInterface\ExercicioFixacaoInterface\bin\Debug\netcoreapp2.1\ExercicioFixacaoInterface.runtimeconfig.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExercicioFixacaoInterface\ExercicioFixacaoInterface\bin\Debug\netcoreapp2.1\ExercicioFixacaoInterface.runtimeconfig.dev.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExercicioFixacaoInterface\ExercicioFixacaoInterface\bin\Debug\netcoreapp2.1\ExercicioFixacaoInterface.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExercicioFixacaoInterface\ExercicioFixacaoInterface\bin\Debug\netcoreapp2.1\ExercicioFixacaoInterface.pdb
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExercicioFixacaoInterface\ExercicioFixacaoInterface\obj\Debug\netcoreapp2.1\ExercicioFixacaoInterface.csprojAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExercicioFixacaoInterface\ExercicioFixacaoInterface\obj\Debug\netcoreapp2.1\ExercicioFixacaoInterface.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExercicioFixacaoInterface\ExercicioFixacaoInterface\obj\Debug\netcoreapp2.1\ExercicioFixacaoInterface.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExercicioFixacaoInterface\ExercicioFixacaoInterface\obj\Debug\netcoreapp2.1\ExercicioFixacaoInterface.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExercicioFixacaoInterface\ExercicioFixacaoInterface\obj\Debug\netcoreapp2.1\ExercicioFixacaoInterface.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExercicioFixacaoInterface\ExercicioFixacaoInterface\obj\Debug\netcoreapp2.1\ExercicioFixacaoInterface.pdb
