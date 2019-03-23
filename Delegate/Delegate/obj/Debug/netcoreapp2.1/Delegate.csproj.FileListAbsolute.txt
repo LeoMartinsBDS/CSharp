@@ -1,0 +1,11 @@
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Delegate\Delegate\bin\Debug\netcoreapp2.1\Delegate.deps.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Delegate\Delegate\bin\Debug\netcoreapp2.1\Delegate.runtimeconfig.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Delegate\Delegate\bin\Debug\netcoreapp2.1\Delegate.runtimeconfig.dev.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Delegate\Delegate\bin\Debug\netcoreapp2.1\Delegate.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Delegate\Delegate\bin\Debug\netcoreapp2.1\Delegate.pdb
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Delegate\Delegate\obj\Debug\netcoreapp2.1\Delegate.csprojAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Delegate\Delegate\obj\Debug\netcoreapp2.1\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Delegate\Delegate\obj\Debug\netcoreapp2.1\Delegate.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Delegate\Delegate\obj\Debug\netcoreapp2.1\Delegate.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Delegate\Delegate\obj\Debug\netcoreapp2.1\Delegate.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Delegate\Delegate\obj\Debug\netcoreapp2.1\Delegate.pdb

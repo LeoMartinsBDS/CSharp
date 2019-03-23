@@ -1,0 +1,11 @@
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Predicate\Predicate\bin\Debug\netcoreapp2.1\Predicate.deps.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Predicate\Predicate\bin\Debug\netcoreapp2.1\Predicate.runtimeconfig.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Predicate\Predicate\bin\Debug\netcoreapp2.1\Predicate.runtimeconfig.dev.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Predicate\Predicate\bin\Debug\netcoreapp2.1\Predicate.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Predicate\Predicate\bin\Debug\netcoreapp2.1\Predicate.pdb
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Predicate\Predicate\obj\Debug\netcoreapp2.1\Predicate.csprojAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Predicate\Predicate\obj\Debug\netcoreapp2.1\Predicate.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Predicate\Predicate\obj\Debug\netcoreapp2.1\Predicate.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Predicate\Predicate\obj\Debug\netcoreapp2.1\Predicate.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Predicate\Predicate\obj\Debug\netcoreapp2.1\Predicate.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\Predicate\Predicate\obj\Debug\netcoreapp2.1\Predicate.pdb

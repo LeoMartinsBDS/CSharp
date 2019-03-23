@@ -1,0 +1,11 @@
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExtMethod\ExtMethod\bin\Debug\netcoreapp2.1\ExtMethod.deps.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExtMethod\ExtMethod\bin\Debug\netcoreapp2.1\ExtMethod.runtimeconfig.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExtMethod\ExtMethod\bin\Debug\netcoreapp2.1\ExtMethod.runtimeconfig.dev.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExtMethod\ExtMethod\bin\Debug\netcoreapp2.1\ExtMethod.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExtMethod\ExtMethod\bin\Debug\netcoreapp2.1\ExtMethod.pdb
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExtMethod\ExtMethod\obj\Debug\netcoreapp2.1\ExtMethod.csprojAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExtMethod\ExtMethod\obj\Debug\netcoreapp2.1\ExtMethod.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExtMethod\ExtMethod\obj\Debug\netcoreapp2.1\ExtMethod.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExtMethod\ExtMethod\obj\Debug\netcoreapp2.1\ExtMethod.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExtMethod\ExtMethod\obj\Debug\netcoreapp2.1\ExtMethod.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExtMethod\ExtMethod\obj\Debug\netcoreapp2.1\ExtMethod.pdb
