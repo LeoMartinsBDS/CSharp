@@ -1,0 +1,11 @@
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExFixLinq\ExFixLinq\bin\Debug\netcoreapp2.1\ExFixLinq.deps.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExFixLinq\ExFixLinq\bin\Debug\netcoreapp2.1\ExFixLinq.runtimeconfig.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExFixLinq\ExFixLinq\bin\Debug\netcoreapp2.1\ExFixLinq.runtimeconfig.dev.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExFixLinq\ExFixLinq\bin\Debug\netcoreapp2.1\ExFixLinq.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExFixLinq\ExFixLinq\bin\Debug\netcoreapp2.1\ExFixLinq.pdb
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExFixLinq\ExFixLinq\obj\Debug\netcoreapp2.1\ExFixLinq.csprojAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExFixLinq\ExFixLinq\obj\Debug\netcoreapp2.1\ExFixLinq.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExFixLinq\ExFixLinq\obj\Debug\netcoreapp2.1\ExFixLinq.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExFixLinq\ExFixLinq\obj\Debug\netcoreapp2.1\ExFixLinq.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExFixLinq\ExFixLinq\obj\Debug\netcoreapp2.1\ExFixLinq.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\C#\ExFixLinq\ExFixLinq\obj\Debug\netcoreapp2.1\ExFixLinq.pdb
