@@ -1,1 +1,1 @@
-# CSharp
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6c8d0a1068864eb2bf6528cd2f307e40)](https://www.codacy.com/app/LeoMartinsBDS/CSharp?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=LeoMartinsBDS/CSharp&amp;utm_campaign=Badge_Grade)
